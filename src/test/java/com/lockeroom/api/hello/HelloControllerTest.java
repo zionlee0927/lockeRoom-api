@@ -1,5 +1,6 @@
 package com.lockeroom.api.hello;
 
+import com.lockeroom.api.www.hello.HelloController;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.test.web.servlet.MockMvc;

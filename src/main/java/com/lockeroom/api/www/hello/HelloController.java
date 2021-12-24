@@ -1,4 +1,4 @@
-package com.lockeroom.api.hello;
+package com.lockeroom.api.www.hello;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
